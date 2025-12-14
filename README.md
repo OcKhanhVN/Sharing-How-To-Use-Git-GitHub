@@ -101,21 +101,20 @@ git branch -M main
 git push -u origin main
 ```
 
-## 📚Áp dụng kiến thức: Liệt kê các ca khúc về Noel hay nhất!
-
+## 📚Áp dụng kiến thức: Winter_Playlist ❄️
 ### ➡️Hướng dẫn:
 
 1. Clone repo này về máy: https://github.com/OcKhanhVN/Sharing-How-To-Use-Git-GitHub.git
 2. Tạo và chuyển sang branch mới đặt tên của bạn
-3. Mở file Christmas_Songs.txt
-4. Viết tên ca khúc + ca sĩ + tên của bạn giống như ví dụ mẫu trong file (khoảng 5 ca khúc)
+3. Mở file Winter_Playlist.txt
+4. Viết tên ca khúc + ca sĩ + tên của bạn giống như ví dụ mẫu trong file (1 người khoảng 5 ca khúc)
 5. Commit và push branch của bạn lên GitHub
 6. Tạo Pull Requests yêu cầu gộp branch của mình vào branch main
 7. Comment, check comment trên Pull Requests
 8. Nêu các bạn bị conflict (vì cùng bài hát) thì hãy thêm tên của mình vào bên cạnh
 ```bash
 # Ví dụ:
-Mistletoe - Justin Bieber - Gia Khánh + Lam Phương
+Mistletoe - Justin Bieber - Gia Khánh, Lam Phương
 ```
 9. Đợi được merge
 
