@@ -105,7 +105,7 @@ git push -u origin main
 
 ### ➡️Hướng dẫn:
 
-1. Clone repo này về máy:
+1. Clone repo này về máy: https://github.com/OcKhanhVN/Sharing-How-To-Use-Git-GitHub.git
 2. Tạo và chuyển sang branch mới đặt tên của bạn
 3. Mở file Christmas_Songs.txt
 4. Viết tên ca khúc + ca sĩ + tên của bạn giống như ví dụ mẫu trong file (khoảng 5 ca khúc)
