@@ -1,6 +1,9 @@
 # 💡Sharing-How-To-Use-Git-GitHub
+
 Xin chào mọi người đã đến với buổi sharing của chúng mình: **Gia Khánh** và **Lam Phương**. Trong buổi sharing này bọn mình sẽ hướng dẫn các bạn sử dụng một số chức năng chính **Git** và **GitHub**. Hy vọng các bạn sẽ đón nhận nhiệt tình và áp dụng kiến thức vào các dự án sau này!😄
+
 ## 📥Tải và cấu hình Git!
+
 1. Truy cập https://git-scm.com/install/ và tải Git về
 2. Kiểm tra cài đặt Git
 ```bash
@@ -17,8 +20,11 @@ git config --global user.email “[Email của bạn]”
 # Kiểm tra cấu hình (Bấm q để out)
 git config --list
 ```
+
 ## 📝Các lệnh trọng ngày hôm nay bọn mình sẽ để đây nhé!
+
 ### 🔨Git Core Workflow (Local):
+
 ```bash
 # Khởi tạo một local repository mới.
 git init
@@ -41,7 +47,9 @@ git log
 # Xem sự khác biệt giữa các trạng thái.
 git diff
 ```
+
 ### 🔗Branching & Merging:
+
 ```bash
 # Liệt kê tất cả các branch (nhánh) hiện có.
 git branch
@@ -60,7 +68,9 @@ git checkout -b [name] = git branch [name] + git checkout [name]
 # Hợp nhất (merge) các thay đổi từ branch được chỉ định vào branch hiện tại.
 git merge [name]
 ```
+
 ### 🌐Collaboration (Remote/GitHub):
+
 ```bash
 # Sao chép (clone) toàn bộ remote repository về máy.
 git clone [url]
@@ -77,7 +87,9 @@ git fetch [remote-name]
 # Tải các thay đổi từ remote và tự động hợp nhất vào nhánh làm việc hiện tại.
 git pull = git fetch + git merge
 ```
+
 ### ⚙️Các bước để kết nối local repo với remote repo (lần đầu): 
+
 ```bash
 # Thêm Remote URL (thường đặt tên là 'origin').
 git remote add origin [URL-GitHub-repo]
@@ -88,8 +100,11 @@ git branch -M main
 # Đẩy code lên Remote và thiết lập theo dõi cho lần đẩy đầu tiên.
 git push -u origin main
 ```
+
 ## 📚Áp dụng kiến thức: Liệt kê các ca khúc về Noel hay nhất!
+
 ### ➡️Hướng dẫn:
+
 1. Clone repo này về máy:
 2. Tạo và chuyển sang branch mới đặt tên của bạn
 3. Mở file Christmas_Songs.txt
@@ -98,3 +113,12 @@ git push -u origin main
 6. Tạo Pull Requests yêu cầu gộp branch của mình vào branch main
 7. Comment, check comment trên Pull Requests hoặc xử ly conflict
 8. Đợi được merge hoặc làm lại theo yêu cầu mới
+
+## 🌟Lời Kết Thúc
+
+**Cảm ơn tất cả các bạn** đã dành thời gian quý báu để theo dõi đến cuối bài sharing của chúng mình! 🎉
+
+Hy vọng những kiến thức về Git và GitHub này sẽ trở thành **công cụ đắc lực 🛠️** giúp các bạn quản lý code một cách chuyên nghiệp và hiệu quả hơn trong các dự án sắp tới. 🚀
+
+Chúc các bạn thành công và tạo ra những sản phẩm chất lượng! 💪
+---
