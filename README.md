@@ -110,13 +110,13 @@ git push -u origin main
 4. Viết tên ca khúc + ca sĩ + tên của bạn giống như ví dụ mẫu trong file (1 người khoảng 5 ca khúc)
 5. Commit và push branch của bạn lên GitHub
 6. Tạo Pull Requests yêu cầu gộp branch của mình vào branch main
-7. Comment, check comment trên Pull Requests
+7. Comment, check review trên Pull Requests
 8. Nêu các bạn bị conflict (vì cùng bài hát) thì hãy thêm tên của mình vào bên cạnh
 ```bash
 # Ví dụ:
 Mistletoe - Justin Bieber - Gia Khánh, Lam Phương
 ```
-9. Đợi được merge
+9. Đợi được approve và merge
 
 ## 🌟Lời Kết Thúc
 
