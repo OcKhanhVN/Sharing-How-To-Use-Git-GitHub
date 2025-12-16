@@ -111,12 +111,15 @@ git push -u origin main
 5. Commit và push branch của bạn lên GitHub
 6. Tạo Pull Requests yêu cầu gộp branch của mình vào branch main
 7. Comment, check review trên Pull Requests
-8. Nêu các bạn bị conflict (vì cùng bài hát) thì hãy thêm tên của mình vào bên cạnh
+8. Nêu các bạn bị conflict
+  -> Do chưa pull về máy bản mới nhất
 ```bash
-# Ví dụ:
+# Lưu ý nếu trong danh sách đã có tên bài hát mình yêu thích thì sẽ thêm tên mình vào bên cạnh
 Mistletoe - Justin Bieber - Gia Khánh, Lam Phương
 ```
-9. Đợi được approve và merge
+9. Đợi được approve và merge.
+
+***Lưu ý**: Nếu bị change request thì làm lại theo yêu cầu và pull request lại
 
 ## 🌟Lời Kết Thúc
 
