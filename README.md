@@ -89,7 +89,6 @@ git pull = git fetch + git merge
 ```
 
 ### ⚙️Các bước để kết nối local repo với remote repo (lần đầu): 
-
 ```bash
 # Thêm Remote URL (thường đặt tên là 'origin').
 git remote add origin [URL-GitHub-repo]
@@ -100,26 +99,35 @@ git branch -M main
 # Đẩy code lên Remote và thiết lập theo dõi cho lần đẩy đầu tiên.
 git push -u origin main
 ```
-
 ## 📚Áp dụng kiến thức: Winter_Playlist ❄️
 ### ➡️Hướng dẫn:
 
 1. Clone repo này về máy: https://github.com/OcKhanhVN/Sharing-How-To-Use-Git-GitHub.git
 2. Tạo và chuyển sang branch mới đặt tên của bạn
 3. Mở file Winter_Playlist.txt
-4. Viết tên ca khúc + ca sĩ + tên của bạn giống như ví dụ mẫu trong file (1 người khoảng 5 ca khúc)
-5. Commit và push branch của bạn lên GitHub
-6. Tạo Pull Requests yêu cầu gộp branch của mình vào branch main
-7. Comment, check review trên Pull Requests
-8. Nêu các bạn bị conflict
-  -> Do chưa pull về máy bản mới nhất
+4. Viết tên ca khúc (liên quan đến mùa đông/ noel) + ca sĩ + tên bạn (nhóm bạn)
 ```bash
-# Lưu ý nếu trong danh sách đã có tên bài hát mình yêu thích thì sẽ thêm tên mình vào bên cạnh
-Mistletoe - Justin Bieber - Gia Khánh, Lam Phương
+# VD:
+Jingle Bell Rock - Bobby Helms - Gia Khánh
+Last Christmas - Wham - T1
+Đông kiếm em - Vũ - T2
 ```
-9. Đợi được approve và merge.
+5. Commit và push branch của bạn lên GitHub
+6. Tạo Pull Requests yêu cầu gộp branch của bạn vào branch main
+7. Nêu các bạn bị conflict
+  -> Do chưa pull về máy bản mới nhất
+8. Đợi được approve và merge.
 
-***Lưu ý**: Nếu bị change request thì làm lại theo yêu cầu và pull request lại
+## ⚖️Luật Chơi
+
+- 1 bài hát hợp lệ (đúng tên bài, tên ca sĩ và **không trùng lặp**) sẽ + 1 điểm
+- Ai nhiều điểm nhất -> Win (nhớ vòi quà sếp Hải :))
+- Gem trong **5** phút, tại các thời điểm quan trọng **4p, 3p, 2p, 1p, 0p** các bạn (nhóm) sẽ được gửi **pull requests 1 lần**
+- Ban tổ chức sẽ cấp quyền merge cho nhóm gửi pull requests **nhanh nhất** => Các bạn (nhóm) còn lại phải mất thời gian xử lý conflict
+- Khi gặp **conflict**, các bạn (nhóm) **không được xoá** kết quả của các bạn (nhóm) khác mà chỉ được **thêm** các bài hát mới của mình xuống dưới
+- Nếu làm sai thì nếu bạn (nhóm) pull request nhanh nhất cũng không được merge (**mất lượt**)
+- 
+**=> 🎯Chiến thuật: Nhấn pull request nhanh nhất có thể tại các mốc thời gian để các nhóm khác mất thời gian resolve conflict**
 
 ## 🌟Lời Kết Thúc
 
