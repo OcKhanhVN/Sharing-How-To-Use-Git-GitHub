@@ -99,30 +99,50 @@ git branch -M main
 # Đẩy code lên Remote và thiết lập theo dõi cho lần đẩy đầu tiên.
 git push -u origin main
 ```
-## 📚Áp dụng kiến thức: Winter_Playlist ❄️
+## 📚Áp dụng kiến thức:
+
+###Warm up 🔥
+
+1. Clone repo này về máy: https://github.com/OcKhanhVN/Sharing-How-To-Use-Git-GitHub.git
+2. Tạo và chuyển sang branch mới đặt họ và tên của bạn
+3. Tạo các file thông tin cơ bản về bản thân
+  - Giới thiệu sơ
+  - Tiểu sử
+  - Sở thích
+  - Tính cách
+  - Noel này có **Người Yêu** chưa... (không bắt buộc) ❤️
+4. Sau khi commit hết thì push branch lên Github
+```bash
+# Push branch lần đầu:
+git push -u origin [Tên branch]
+```
+
+###Winter_Playlist ❄️
+
 ### ➡️Hướng dẫn:
 
 1. Clone repo này về máy: https://github.com/OcKhanhVN/Sharing-How-To-Use-Git-GitHub.git
-2. Tạo và chuyển sang branch mới đặt tên của bạn
+2. Tạo và chuyển sang branch mới đặt tên của nhóm bạn
 3. Mở file Winter_Playlist.txt
-4. Viết tên ca khúc (liên quan đến mùa đông/ noel) + ca sĩ + tên bạn (nhóm bạn)
+4. Viết tên ca khúc (liên quan đến mùa đông/ noel) + ca sĩ + tên nhóm bạn
 ```bash
 # VD:
 Jingle Bell Rock - Bobby Helms - Gia Khánh
 Last Christmas - Wham - T1
 Đông kiếm em - Vũ - T2
 ```
-5. Commit và push branch của bạn lên GitHub
-6. Tạo Pull Requests yêu cầu gộp branch của bạn vào branch main
-7. Nêu các bạn bị conflict (chậm hơn nhóm khác rồi!)
+5. Commit và push branch của nhóm bạn lên GitHub
+6. Tạo Pull Requests yêu cầu gộp branch của nhóm bạn vào branch main
+7. Nêu nhóm bạn bị conflict (chậm hơn nhóm khác rồi!)
   -> Do chưa pull về máy bản mới nhất
-8. Nếu bạn nhanh nhất thì sẽ được merge.
+8. Nếu nhóm bạn đủ nhanh thì sẽ được merge.
 
-## ⚖️Luật Chơi
+### ⚖️Luật Chơi
 
 - 1 bài hát hợp lệ (đúng tên bài, tên ca sĩ và **không trùng lặp**) sẽ + 1 điểm
+- Nếu trùng lặp sẽ bị -1 điểm
 - Ai nhiều điểm nhất -> Win (nhớ vòi quà sếp Hải :))
-- Game trong **12** phút, các bạn (nhóm) sẽ được gửi **pull requests** nếu **ĐÚNG 5** bài hát mới **(ko hơn ko kém)**
+- Game trong **12** phút, các bạn (nhóm) sẽ được gửi **pull requests** nếu **ĐÚNG 5** bài hát **(ko hơn ko kém)**
 - Ban tổ chức sẽ merge cho nhóm gửi pull requests **Nhanh nhất và Chính xác** => Các bạn (nhóm) còn lại phải mất thời gian xử lý conflict
 - Khi gặp **conflict**, các bạn (nhóm) **không được xoá** kết quả của các bạn (nhóm) khác mà chỉ được **thêm** các bài hát mới của mình xuống dưới
 - Nếu làm sai thì bạn (nhóm) sẽ không được merge
