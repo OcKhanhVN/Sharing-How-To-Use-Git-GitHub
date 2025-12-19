@@ -114,20 +114,20 @@ Last Christmas - Wham - T1
 ```
 5. Commit và push branch của bạn lên GitHub
 6. Tạo Pull Requests yêu cầu gộp branch của bạn vào branch main
-7. Nêu các bạn bị conflict
+7. Nêu các bạn bị conflict (chậm hơn nhóm khác rồi!)
   -> Do chưa pull về máy bản mới nhất
-8. Đợi được approve và merge.
+8. Nếu bạn nhanh nhất thì sẽ được merge.
 
 ## ⚖️Luật Chơi
 
 - 1 bài hát hợp lệ (đúng tên bài, tên ca sĩ và **không trùng lặp**) sẽ + 1 điểm
 - Ai nhiều điểm nhất -> Win (nhớ vòi quà sếp Hải :))
-- Gem trong **5** phút, tại các thời điểm quan trọng **4p, 3p, 2p, 1p, 0p** các bạn (nhóm) sẽ được gửi **pull requests 1 lần**
-- Ban tổ chức sẽ cấp quyền merge cho nhóm gửi pull requests **nhanh nhất** => Các bạn (nhóm) còn lại phải mất thời gian xử lý conflict
+- Gem trong **12** phút, các bạn (nhóm) sẽ được gửi **pull requests** nếu **ĐÚNG 5** bài hát mới **(ko hơn ko kém)**
+- Ban tổ chức sẽ merge cho nhóm gửi pull requests **Nhanh nhất và Chính xác** => Các bạn (nhóm) còn lại phải mất thời gian xử lý conflict
 - Khi gặp **conflict**, các bạn (nhóm) **không được xoá** kết quả của các bạn (nhóm) khác mà chỉ được **thêm** các bài hát mới của mình xuống dưới
-- Nếu làm sai thì nếu bạn (nhóm) pull request nhanh nhất cũng không được merge (**mất lượt**)
+- Nếu làm sai thì bạn (nhóm) sẽ không được merge
 - 
-**=> 🎯Chiến thuật: Nhấn pull request nhanh nhất có thể tại các mốc thời gian để các nhóm khác mất thời gian resolve conflict**
+**=> 🎯Chiến thuật: Tìm được đủ bài hát, nhấn pull request nhanh nhất và chính xác để các nhóm khác mất thời gian resolve conflict**
 
 ## 🌟Lời Kết Thúc
 
