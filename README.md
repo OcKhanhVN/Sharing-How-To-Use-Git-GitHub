@@ -101,7 +101,7 @@ git push -u origin main
 ```
 ## 📚Áp dụng kiến thức:
 
-###Warm up 🔥
+### Warm up 🔥
 
 1. Clone repo này về máy: https://github.com/OcKhanhVN/Sharing-How-To-Use-Git-GitHub.git
 2. Tạo và chuyển sang branch mới đặt họ và tên của bạn
@@ -117,7 +117,7 @@ git push -u origin main
 git push -u origin [Tên branch]
 ```
 
-###Winter_Playlist ❄️
+### Winter_Playlist ❄️
 
 ### ➡️Hướng dẫn:
 
