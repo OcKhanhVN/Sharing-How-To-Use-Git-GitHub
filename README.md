@@ -122,7 +122,7 @@ Last Christmas - Wham - T1
 
 - 1 bài hát hợp lệ (đúng tên bài, tên ca sĩ và **không trùng lặp**) sẽ + 1 điểm
 - Ai nhiều điểm nhất -> Win (nhớ vòi quà sếp Hải :))
-- Gem trong **12** phút, các bạn (nhóm) sẽ được gửi **pull requests** nếu **ĐÚNG 5** bài hát mới **(ko hơn ko kém)**
+- Game trong **12** phút, các bạn (nhóm) sẽ được gửi **pull requests** nếu **ĐÚNG 5** bài hát mới **(ko hơn ko kém)**
 - Ban tổ chức sẽ merge cho nhóm gửi pull requests **Nhanh nhất và Chính xác** => Các bạn (nhóm) còn lại phải mất thời gian xử lý conflict
 - Khi gặp **conflict**, các bạn (nhóm) **không được xoá** kết quả của các bạn (nhóm) khác mà chỉ được **thêm** các bài hát mới của mình xuống dưới
 - Nếu làm sai thì bạn (nhóm) sẽ không được merge
